@@ -31,5 +31,6 @@ class Employe extends Person
     public void dis()
     {
         System.out.println(Fname + " " + Lname + " " + org_name);
+        System.out.println(Fname + " " + Lname + " " + org_name);
     }
 }
