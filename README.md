@@ -1,3 +1,3 @@
 # CoreJava
-Programs of core java.
-I am learning java as well as Github.
+#Programs of core java.
+#I am learning java as well as Github.
